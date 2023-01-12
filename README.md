@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EX 5 1 CHAIR PDF_page-0001](https://user-images.githubusercontent.com/121215938/211989265-d00941d2-f431-40ff-83e8-aaeed4e1720b.jpg)
+
 
 
 ## RESULT:
