@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![KAR 5 1 new 20kb](https://user-images.githubusercontent.com/121215938/212537629-04e2abed-3e0e-4699-9c72-d6b3836ce81c.jpg)
+
 
 
 
